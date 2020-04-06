@@ -1,0 +1,415 @@
+|id         |title                                                                                               |description              |
+|-----------|----------------------------------------------------------------------------------------------------|-------------------------|
+|11         | Maybe                                                                                              |Future                   |
+|11         | Maybe                                                                                              |Sadness                  |
+|11         | Maybe                                                                                              |Love                     |
+|11         | Maybe                                                                                              |Obsessive-compulsive     |
+|12         | A Mothers Love                                                                                     |Love                     |
+|12         | A Mothers Love                                                                                     |Family                   |
+|12         | A Mothers Love                                                                                     |Freedom                  |
+|12         | A Mothers Love                                                                                     |Friendship               |
+|13         | Bei Mir Bist Du Schoen                                                                             |Loneliness               |
+|13         | Bei Mir Bist Du Schoen                                                                             |Love                     |
+|13         | Bei Mir Bist Du Schoen                                                                             |Relationship             |
+|13         | Bei Mir Bist Du Schoen                                                                             |Respect                  |
+|14         | Chicken Fried                                                                                      |Family                   |
+|14         | Chicken Fried                                                                                      |Party                    |
+|14         | Chicken Fried                                                                                      |Nightlife                |
+|14         | Chicken Fried                                                                                      |Youthful                 |
+|16         | Make Him Wait                                                                                      |Mindset                  |
+|16         | Make Him Wait                                                                                      |Feminism                 |
+|16         | Make Him Wait                                                                                      |Relationship             |
+|16         | Make Him Wait                                                                                      |Love                     |
+|16         | Make Him Wait                                                                                      |Youthful                 |
+|17         | Jolene                                                                                             |Fear                     |
+|17         | Jolene                                                                                             |Sadness                  |
+|17         | Jolene                                                                                             |Loneliness               |
+|18         | I'm My Own Grandpa                                                                                 |Psychotic                |
+|18         | I'm My Own Grandpa                                                                                 |Maniac                   |
+|18         | I'm My Own Grandpa                                                                                 |Love                     |
+|19         | Pancho And Lefty                                                                                   |Country-Life             |
+|19         | Pancho And Lefty                                                                                   |Freedom                  |
+|19         | Pancho And Lefty                                                                                   |Travel                   |
+|20         | Forevermore                                                                                        |Loneliness               |
+|20         | Forevermore                                                                                        |Love                     |
+|20         | Forevermore                                                                                        |Happiness                |
+|23         | Lily Was Here (DNA Remix)                                                                          |Loneliness               |
+|23         | Lily Was Here (DNA Remix)                                                                          |Party                    |
+|23         | Lily Was Here (DNA Remix)                                                                          |Drugs                    |
+|23         | Lily Was Here (DNA Remix)                                                                          |Sadness                  |
+|24         | Blue Skies                                                                                         |Happiness                |
+|24         | Blue Skies                                                                                         |Brave                    |
+|24         | Blue Skies                                                                                         |Freedom                  |
+|26         | I Will Always Love You                                                                             |Regreat                  |
+|26         | I Will Always Love You                                                                             |Break-up                 |
+|27         | In Case You Didn't Know                                                                            |Regreat                  |
+|27         | In Case You Didn't Know                                                                            |Sadness                  |
+|27         | In Case You Didn't Know                                                                            |Love                     |
+|30         | Over The Rainbow                                                                                   |Future                   |
+|30         | Over The Rainbow                                                                                   |God                      |
+|31         | Stardust                                                                                           |Depression               |
+|31         | Stardust                                                                                           |Regreat                  |
+|31         | Stardust                                                                                           |Break-up                 |
+|33         | Darling                                                                                            |Love                     |
+|33         | Darling                                                                                            |Friendship               |
+|35         | September Song                                                                                     |Celebration              |
+|35         | September Song                                                                                     |Love                     |
+|35         | September Song                                                                                     |Freedom                  |
+|36         | Nine To Five                                                                                       |Servitude                |
+|36         | Nine To Five                                                                                       |Brave                    |
+|36         | Nine To Five                                                                                       |Mindset                  |
+|36         | Nine To Five                                                                                       |Society                  |
+|37         | Anything Goes                                                                                      |Freedom                  |
+|37         | Anything Goes                                                                                      |Religion                 |
+|37         | Anything Goes                                                                                      |Money                    |
+|39         | Get Along                                                                                          |Party                    |
+|39         | Get Along                                                                                          |Society                  |
+|39         | Get Along                                                                                          |Future                   |
+|39         | Get Along                                                                                          |Country-Life             |
+|39         | Get Along                                                                                          |Family                   |
+|41         | Smile                                                                                              |Brave                    |
+|44         | Cry Me A River                                                                                     |Loneliness               |
+|44         | Cry Me A River                                                                                     |Post-traumatic           |
+|44         | Cry Me A River                                                                                     |Vengeance                |
+|44         | Cry Me A River                                                                                     |Sadness                  |
+|44         | Cry Me A River                                                                                     |Personality-disorder     |
+|44         | Cry Me A River                                                                                     |Love                     |
+|47         | Friends In Low Places                                                                              |Post-traumatic           |
+|47         | Friends In Low Places                                                                              |Riot                     |
+|47         | Friends In Low Places                                                                              |Personality-disorder     |
+|47         | Friends In Low Places                                                                              |Party                    |
+|49         | Before He Cheats                                                                                   |Regreat                  |
+|49         | Before He Cheats                                                                                   |Vengeance                |
+|49         | Before He Cheats                                                                                   |Love                     |
+|49         | Before He Cheats                                                                                   |Party                    |
+|49         | Before He Cheats                                                                                   |Nightlife                |
+|50         | Go Rest High On That Mountain                                                                      |God                      |
+|50         | Go Rest High On That Mountain                                                                      |Religion                 |
+|50         | Go Rest High On That Mountain                                                                      |Servitude                |
+|51         | Stronger Than Me                                                                                   |Depression               |
+|51         | Stronger Than Me                                                                                   |Feminism                 |
+|51         | Stronger Than Me                                                                                   |Relationship             |
+|51         | Stronger Than Me                                                                                   |Disappointment           |
+|52         | Don't Worry, Be Happy                                                                              |Happiness                |
+|52         | Don't Worry, Be Happy                                                                              |Personal-Style           |
+|52         | Don't Worry, Be Happy                                                                              |Money                    |
+|52         | Don't Worry, Be Happy                                                                              |Chaos                    |
+|54         | Johnny Guitar                                                                                      |Friendship               |
+|54         | Johnny Guitar                                                                                      |Love                     |
+|55         | Everything Is Beautiful                                                                            |Society                  |
+|55         | Everything Is Beautiful                                                                            |God                      |
+|55         | Everything Is Beautiful                                                                            |Family                   |
+|55         | Everything Is Beautiful                                                                            |Free-Speech              |
+|56         | Mom                                                                                                |Family                   |
+|56         | Mom                                                                                                |God                      |
+|56         | Mom                                                                                                |Love                     |
+|57         | Remember When                                                                                      |Love                     |
+|57         | Remember When                                                                                      |Break-up                 |
+|57         | Remember When                                                                                      |Youthful                 |
+|58         | Coal Miner's Daughter                                                                              |Brave                    |
+|58         | Coal Miner's Daughter                                                                              |Money                    |
+|58         | Coal Miner's Daughter                                                                              |Poverty                  |
+|58         | Coal Miner's Daughter                                                                              |Family                   |
+|58         | Coal Miner's Daughter                                                                              |Servitude                |
+|59         | Seven Spanish Angels                                                                               |God                      |
+|59         | Seven Spanish Angels                                                                               |Love                     |
+|60         | Outlaw Women                                                                                       |Drugs                    |
+|60         | Outlaw Women                                                                                       |Feminism                 |
+|60         | Outlaw Women                                                                                       |Party                    |
+|61         | My Little Girl                                                                                     |Future                   |
+|61         | My Little Girl                                                                                     |Love                     |
+|61         | My Little Girl                                                                                     |Family                   |
+|62         | I Saw The Light                                                                                    |God                      |
+|62         | I Saw The Light                                                                                    |Servitude                |
+|62         | I Saw The Light                                                                                    |Fear                     |
+|63         | Shameless                                                                                          |Servitude                |
+|63         | Shameless                                                                                          |Love                     |
+|64         | As I Kneel Before You                                                                              |Religion                 |
+|64         | As I Kneel Before You                                                                              |Love                     |
+|64         | As I Kneel Before You                                                                              |God                      |
+|64         | As I Kneel Before You                                                                              |Family                   |
+|66         | Oh Darlin' What Have I Done                                                                        |Loneliness               |
+|66         | Oh Darlin' What Have I Done                                                                        |Drugs                    |
+|66         | Oh Darlin' What Have I Done                                                                        |Depression               |
+|69         | If I Die Young                                                                                     |Depression               |
+|69         | If I Die Young                                                                                     |Future                   |
+|69         | If I Die Young                                                                                     |Sadness                  |
+|69         | If I Die Young                                                                                     |Loneliness               |
+|71         | Dear Penis                                                                                         |Free-Speech              |
+|71         | Dear Penis                                                                                         |Country-Life             |
+|71         | Dear Penis                                                                                         |Sadness                  |
+|71         | Dear Penis                                                                                         |Prostitution             |
+|71         | Dear Penis                                                                                         |Party                    |
+|71         | Dear Penis                                                                                         |Freedom                  |
+|72         | Simple                                                                                             |Love                     |
+|72         | Simple                                                                                             |Relationship             |
+|73         | King Of The Road                                                                                   |Loneliness               |
+|73         | King Of The Road                                                                                   |Poverty                  |
+|73         | King Of The Road                                                                                   |Travel                   |
+|76         | Head Over Boots                                                                                    |Love                     |
+|76         | Head Over Boots                                                                                    |Obsessive-compulsive     |
+|78         | Live Like You Were Dying                                                                           |Family                   |
+|78         | Live Like You Were Dying                                                                           |Future                   |
+|78         | Live Like You Were Dying                                                                           |Adventure                |
+|80         | Rumor                                                                                              |Love                     |
+|80         | Rumor                                                                                              |Party                    |
+|80         | Rumor                                                                                              |Country-Life             |
+|80         | Rumor                                                                                              |Friendship               |
+|81         | I'm Amazed By you                                                                                  |Happiness                |
+|81         | I'm Amazed By you                                                                                  |Love                     |
+|82         | Crazy                                                                                              |Sadness                  |
+|82         | Crazy                                                                                              |Break-up                 |
+|82         | Crazy                                                                                              |Love                     |
+|82         | Crazy                                                                                              |Loneliness               |
+|83         | Help Me Make It Through The Night                                                                  |Friendship               |
+|83         | Help Me Make It Through The Night                                                                  |Love                     |
+|83         | Help Me Make It Through The Night                                                                  |God                      |
+|84         | I Am A Man Of Constant Sorrow                                                                      |Nostalgia                |
+|84         | I Am A Man Of Constant Sorrow                                                                      |Depression               |
+|84         | I Am A Man Of Constant Sorrow                                                                      |Loneliness               |
+|84         | I Am A Man Of Constant Sorrow                                                                      |Country-Life             |
+|85         | Need You Now                                                                                       |Sadness                  |
+|85         | Need You Now                                                                                       |Drugs                    |
+|85         | Need You Now                                                                                       |Break-up                 |
+|85         | Need You Now                                                                                       |Loneliness               |
+|86         | Honey Bee                                                                                          |Relationship             |
+|86         | Honey Bee                                                                                          |Love                     |
+|89         | Drunken Sailor                                                                                     |Freedom                  |
+|89         | Drunken Sailor                                                                                     |Drugs                    |
+|90         | He Stopped Loving Her Today                                                                        |Sadness                  |
+|90         | He Stopped Loving Her Today                                                                        |Break-up                 |
+|92         | Best Of Intentions                                                                                 |Depression               |
+|92         | Best Of Intentions                                                                                 |Fear                     |
+|92         | Best Of Intentions                                                                                 |Love                     |
+|92         | Best Of Intentions                                                                                 |Break-up                 |
+|93         | Lovesick Blues                                                                                     |Love                     |
+|93         | Lovesick Blues                                                                                     |Sadness                  |
+|93         | Lovesick Blues                                                                                     |Break-up                 |
+|93         | Lovesick Blues                                                                                     |Loneliness               |
+|94         | Rodeo                                                                                              |Party                    |
+|94         | Rodeo                                                                                              |Country-Life             |
+|94         | Rodeo                                                                                              |Love                     |
+|97         | Knee Deep                                                                                          |Sadness                  |
+|97         | Knee Deep                                                                                          |Freedom                  |
+|97         | Knee Deep                                                                                          |Fear                     |
+|98         | Life Changes                                                                                       |Freedom                  |
+|98         | Life Changes                                                                                       |Youthful                 |
+|98         | Life Changes                                                                                       |College                  |
+|99         | Bring Me Sunshine                                                                                  |Love                     |
+|99         | Bring Me Sunshine                                                                                  |Relationship             |
+|99         | Bring Me Sunshine                                                                                  |Happiness                |
+|101        | Life Is A Highway                                                                                  |Freedom                  |
+|101        | Life Is A Highway                                                                                  |Happiness                |
+|101        | Life Is A Highway                                                                                  |Travel                   |
+|101        | Life Is A Highway                                                                                  |Brave                    |
+|102        | I Know Who Holds Tomorrow                                                                          |God                      |
+|102        | I Know Who Holds Tomorrow                                                                          |Freedom                  |
+|102        | I Know Who Holds Tomorrow                                                                          |Servitude                |
+|104        | Far From Any Road                                                                                  |Love                     |
+|104        | Far From Any Road                                                                                  |Religion                 |
+|104        | Far From Any Road                                                                                  |Relationship             |
+|105        | Old Time Religion                                                                                  |God                      |
+|105        | Old Time Religion                                                                                  |Religion                 |
+|105        | Old Time Religion                                                                                  |Love                     |
+|106        | Coming Home                                                                                        |Love                     |
+|106        | Coming Home                                                                                        |Sadness                  |
+|106        | Coming Home                                                                                        |Depression               |
+|107        | Pearly Shells                                                                                      |Love                     |
+|108        | Humble and Kind                                                                                    |God                      |
+|108        | Humble and Kind                                                                                    |Family                   |
+|108        | Humble and Kind                                                                                    |Friendship               |
+|108        | Humble and Kind                                                                                    |Country-Life             |
+|108        | Humble and Kind                                                                                    |Freedom                  |
+|109        | Rose Garden                                                                                        |Love                     |
+|109        | Rose Garden                                                                                        |Relationship             |
+|110        | Desperate Man                                                                                      |God                      |
+|110        | Desperate Man                                                                                      |Depression               |
+|110        | Desperate Man                                                                                      |Sadness                  |
+|110        | Desperate Man                                                                                      |Religion                 |
+|111        | I Just Want To Thank You Lord                                                                      |Religion                 |
+|111        | I Just Want To Thank You Lord                                                                      |God                      |
+|111        | I Just Want To Thank You Lord                                                                      |Selfishness              |
+|111        | I Just Want To Thank You Lord                                                                      |Depression               |
+|111        | I Just Want To Thank You Lord                                                                      |Servitude                |
+|112        | Better Man                                                                                         |Mindset                  |
+|112        | Better Man                                                                                         |Break-up                 |
+|112        | Better Man                                                                                         |Love                     |
+|112        | Better Man                                                                                         |Freedom                  |
+|113        | Mississippi Squirrel Revival                                                                       |Family                   |
+|113        | Mississippi Squirrel Revival                                                                       |Love                     |
+|113        | Mississippi Squirrel Revival                                                                       |God                      |
+|113        | Mississippi Squirrel Revival                                                                       |Childhood                |
+|113        | Mississippi Squirrel Revival                                                                       |Happiness                |
+|114        | Blue Ain't Your Color                                                                              |Adventure                |
+|114        | Blue Ain't Your Color                                                                              |Youthful                 |
+|114        | Blue Ain't Your Color                                                                              |Nightlife                |
+|114        | Blue Ain't Your Color                                                                              |Love                     |
+|115        | Bless The Broken Road                                                                              |God                      |
+|115        | Bless The Broken Road                                                                              |Regreat                  |
+|115        | Bless The Broken Road                                                                              |Love                     |
+|116        | All My Ex's Live In Texas                                                                          |Break-up                 |
+|116        | All My Ex's Live In Texas                                                                          |Sadness                  |
+|116        | All My Ex's Live In Texas                                                                          |Relationship             |
+|117        | 9 To 5                                                                                             |Depression               |
+|117        | 9 To 5                                                                                             |Capitalism               |
+|117        | 9 To 5                                                                                             |Freedom                  |
+|117        | 9 To 5                                                                                             |Loneliness               |
+|118        | Girl Crush                                                                                         |Post-traumatic           |
+|118        | Girl Crush                                                                                         |Love                     |
+|118        | Girl Crush                                                                                         |Relationship             |
+|118        | Girl Crush                                                                                         |Adventure                |
+|119        | Beer Barrel Polka (Roll Out The Barrel)                                                            |Nightlife                |
+|119        | Beer Barrel Polka (Roll Out The Barrel)                                                            |Freedom                  |
+|119        | Beer Barrel Polka (Roll Out The Barrel)                                                            |Happiness                |
+|121        | Have Yourself a Merry Little Christmas                                                             |Family                   |
+|121        | Have Yourself a Merry Little Christmas                                                             |God                      |
+|121        | Have Yourself a Merry Little Christmas                                                             |Celebration              |
+|123        | Loving You                                                                                         |Love                     |
+|123        | Loving You                                                                                         |Happiness                |
+|123        | Loving You                                                                                         |Relationship             |
+|126        | Always On My Mind                                                                                  |Break-up                 |
+|126        | Always On My Mind                                                                                  |Sadness                  |
+|126        | Always On My Mind                                                                                  |Relationship             |
+|126        | Always On My Mind                                                                                  |Regreat                  |
+|126        | Always On My Mind                                                                                  |Love                     |
+|128        | A Little Dive Bar in Dahlonega                                                                     |Party                    |
+|128        | A Little Dive Bar in Dahlonega                                                                     |Break-up                 |
+|128        | A Little Dive Bar in Dahlonega                                                                     |Nightlife                |
+|129        | On The Road Again                                                                                  |Friendship               |
+|129        | On The Road Again                                                                                  |Love                     |
+|129        | On The Road Again                                                                                  |Travel                   |
+|131        | Orange Colored Sky                                                                                 |Love                     |
+|131        | Orange Colored Sky                                                                                 |Country-Life             |
+|132        | Blue Moon                                                                                          |Loneliness               |
+|132        | Blue Moon                                                                                          |Sadness                  |
+|132        | Blue Moon                                                                                          |Narcissist               |
+|132        | Blue Moon                                                                                          |Society                  |
+|132        | Blue Moon                                                                                          |Love                     |
+|134        | After You've Gone                                                                                  |Love                     |
+|134        | After You've Gone                                                                                  |Relationship             |
+|134        | After You've Gone                                                                                  |Vengeance                |
+|134        | After You've Gone                                                                                  |Sadness                  |
+|134        | After You've Gone                                                                                  |Break-up                 |
+|135        | Set You Free                                                                                       |Sadness                  |
+|135        | Set You Free                                                                                       |Break-up                 |
+|135        | Set You Free                                                                                       |Love                     |
+|136        | Something Stupid                                                                                   |Party                    |
+|136        | Something Stupid                                                                                   |Love                     |
+|137        | Good Morning                                                                                       |Freedom                  |
+|137        | Good Morning                                                                                       |Society                  |
+|137        | Good Morning                                                                                       |Happiness                |
+|138        | Show Them To Me                                                                                    |Maniac                   |
+|138        | Show Them To Me                                                                                    |Masculism                |
+|138        | Show Them To Me                                                                                    |Party                    |
+|139        | Hey, Good Lookin'                                                                                  |Party                    |
+|139        | Hey, Good Lookin'                                                                                  |Masculism                |
+|139        | Hey, Good Lookin'                                                                                  |College                  |
+|139        | Hey, Good Lookin'                                                                                  |Obsessive-compulsive     |
+|140        | Family Tradition                                                                                   |Drugs                    |
+|140        | Family Tradition                                                                                   |Family                   |
+|140        | Family Tradition                                                                                   |Country-Life             |
+|140        | Family Tradition                                                                                   |Childhood                |
+|140        | Family Tradition                                                                                   |Sadness                  |
+|141        | Better Boat                                                                                        |God                      |
+|141        | Better Boat                                                                                        |Loneliness               |
+|141        | Better Boat                                                                                        |Depression               |
+|142        | I Wish I Knew How It Would Feel to Be Free                                                         |Loneliness               |
+|142        | I Wish I Knew How It Would Feel to Be Free                                                         |Freedom                  |
+|143        | Roxie                                                                                              |Future                   |
+|143        | Roxie                                                                                              |Celebration              |
+|143        | Roxie                                                                                              |Feminism                 |
+|144        | I'm Forever Blowing Bubbles                                                                        |Freedom                  |
+|144        | I'm Forever Blowing Bubbles                                                                        |Love                     |
+|144        | I'm Forever Blowing Bubbles                                                                        |Happiness                |
+|145        | Killing Me Softly With His Song                                                                    |Sadness                  |
+|145        | Killing Me Softly With His Song                                                                    |Fear                     |
+|145        | Killing Me Softly With His Song                                                                    |Post-traumatic           |
+|149        | Better As A Memory                                                                                 |Break-up                 |
+|149        | Better As A Memory                                                                                 |Religion                 |
+|149        | Better As A Memory                                                                                 |Loneliness               |
+|151        | Does He Love You                                                                                   |Depression               |
+|151        | Does He Love You                                                                                   |Sadness                  |
+|151        | Does He Love You                                                                                   |Relationship             |
+|151        | Does He Love You                                                                                   |Chaos                    |
+|151        | Does He Love You                                                                                   |Obsessive-compulsive     |
+|153        | Nowadays                                                                                           |Freedom                  |
+|153        | Nowadays                                                                                           |Party                    |
+|153        | Nowadays                                                                                           |Drugs                    |
+|155        | Love Is a Losing Game                                                                              |Break-up                 |
+|155        | Love Is a Losing Game                                                                              |Sadness                  |
+|155        | Love Is a Losing Game                                                                              |Love                     |
+|156        | Ezekiel 25:17                                                                                      |God                      |
+|156        | Ezekiel 25:17                                                                                      |Religion                 |
+|156        | Ezekiel 25:17                                                                                      |Servitude                |
+|157        | River Of No Return                                                                                 |Brave                    |
+|157        | River Of No Return                                                                                 |Love                     |
+|157        | River Of No Return                                                                                 |Sadness                  |
+|160        | From This Moment                                                                                   |Relationship             |
+|160        | From This Moment                                                                                   |Obsessive-compulsive     |
+|160        | From This Moment                                                                                   |Love                     |
+|161        | My Wish                                                                                            |Future                   |
+|161        | My Wish                                                                                            |Friendship               |
+|161        | My Wish                                                                                            |Love                     |
+|161        | My Wish                                                                                            |Brave                    |
+|161        | My Wish                                                                                            |Mindset                  |
+|162        | Here I Am Lord                                                                                     |God                      |
+|162        | Here I Am Lord                                                                                     |Love                     |
+|162        | Here I Am Lord                                                                                     |Religion                 |
+|162        | Here I Am Lord                                                                                     |Servitude                |
+|163        | Shotgun Rider                                                                                      |Love                     |
+|163        | Shotgun Rider                                                                                      |Adventure                |
+|164        | Didn't Leave Nobody But The Baby                                                                   |Happiness                |
+|164        | Didn't Leave Nobody But The Baby                                                                   |Love                     |
+|164        | Didn't Leave Nobody But The Baby                                                                   |Family                   |
+|165        | Fever                                                                                              |Respect                  |
+|165        | Fever                                                                                              |Relationship             |
+|165        | Fever                                                                                              |Love                     |
+|166        | Joy Comes In The Morning                                                                           |Future                   |
+|166        | Joy Comes In The Morning                                                                           |Sadness                  |
+|166        | Joy Comes In The Morning                                                                           |Depression               |
+|166        | Joy Comes In The Morning                                                                           |Fear                     |
+|226        | If It Will, It Will (The Voice Performance)                                                        |Childhood                |
+|226        | If It Will, It Will (The Voice Performance)                                                        |Brave                    |
+|226        | If It Will, It Will (The Voice Performance)                                                        |Nostalgia                |
+|236        | I Want You Back                                                                                    |Relationship             |
+|236        | I Want You Back                                                                                    |Regreat                  |
+|236        | I Want You Back                                                                                    |Break-up                 |
+|291        | In The Light                                                                                       |Relationship             |
+|291        | In The Light                                                                                       |Hope                     |
+|295        | A Mistake                                                                                          |Freedom                  |
+|295        | A Mistake                                                                                          |Party                    |
+|295        | A Mistake                                                                                          |Regreat                  |
+|321        | Alphabet St.                                                                                       |Party                    |
+|321        | Alphabet St.                                                                                       |Nightlife                |
+|348        | Jesus Doesn't Want Me For A Sunbeam                                                                |Depression               |
+|449        | I Wanna Dance With Somebody                                                                        |Loneliness               |
+|449        | I Wanna Dance With Somebody                                                                        |Party                    |
+|617        | I'm Ready                                                                                          |Respect                  |
+|617        | I'm Ready                                                                                          |Happiness                |
+|617        | I'm Ready                                                                                          |Love                     |
+|636        | I'm Always Chasing Rainbows                                                                        |Depression               |
+|636        | I'm Always Chasing Rainbows                                                                        |Disappointment           |
+|644        | It's My Party                                                                                      |Party                    |
+|644        | It's My Party                                                                                      |Freedom                  |
+|644        | It's My Party                                                                                      |Feminism                 |
+|772        | I'm A Freak                                                                                        |Nightlife                |
+|772        | I'm A Freak                                                                                        |Party                    |
+|835        | A Change Is Gonna Come                                                                             |Adventure                |
+|881        | A Pink Dream                                                                                       |Happiness                |
+|881        | A Pink Dream                                                                                       |Adventure                |
+|881        | A Pink Dream                                                                                       |Love                     |
+|886        | I Would Die For You                                                                                |Love                     |
+|886        | I Would Die For You                                                                                |Depression               |
+|886        | I Would Die For You                                                                                |Obsessive-compulsive     |
+|953        | A Little Too Much                                                                                  |Adventure                |
+|953        | A Little Too Much                                                                                  |Feminism                 |
+|985        | I'm Not Down                                                                                       |Loneliness               |
+|985        | I'm Not Down                                                                                       |Vengeance                |
+|985        | I'm Not Down                                                                                       |Riot                     |
+|1015       | A Pretty Girl Milking Her Cow                                                                      |Love                     |
+|1015       | A Pretty Girl Milking Her Cow                                                                      |Country-Life             |
+|1149       | I've Got You Under My Skin                                                                         |Future                   |
+|1149       | I've Got You Under My Skin                                                                         |Love                     |
+|1155       | Aneurysm                                                                                           |Depression               |
+|1155       | Aneurysm                                                                                           |Obsessive-compulsive     |
+|1155       | Aneurysm                                                                                           |Drugs                    |
